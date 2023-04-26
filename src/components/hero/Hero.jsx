@@ -9,7 +9,7 @@ const heroContent = {
   heroImage: "/assets/img/hero/dark.jpg",
   heroMobileImage: heroImgMobile,
   heroTitleName: "alexandru",
-  heroDesignation: "Passionate Front-End Developer & Problem Solver",
+  heroDesignation: "Passionate\nFront-End Developer & Problem Solver",
   heroDescriptions: `As a resourceful and adaptable Front-end Developer, with 12 years of professional experience, I specialize in crafting innovative web applications and digital experiences backed by a strong foundation in HTML, CSS, JavaScript, and Python. My diverse background has honed my problem-solving, project management, and technical skills, enabling me to excel in any team environment.\n
 Well-versed in full-stack development, I possess expertise in Adobe Creative Suite, Canva, Figma, Flask, Git/GitHub, Node.js, PostgreSQL, SQL, and TypeScript. With certifications in CSS, HTML, JavaScript, Python, Flask, SQL, and React, I am committed to continuous learning and keeping pace with industry trends.\n
 Driven by a passion for delivering exceptional front-end experiences, I am eager to contribute to a forward-thinking company, tackling front-end, full-stack, or software engineering challenges.`,
