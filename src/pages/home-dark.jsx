@@ -114,7 +114,7 @@ const HomeDark = () => {
                     </h3>
                     <p className="open-sans-font mb-4">
                     LET&apos;S GET IN TOUCH!
-                    I&apos;m eager to connect and explore new projects, inventive concepts, or team up to realize your goals. Don't hesitate to reach out – together, we can create extraordinary results!
+                    I&apos;m eager to connect and explore new projects, inventive concepts, or team up to realize your goals. Don&apos;t hesitate to reach out – together, we can create extraordinary results!
                     </p>
                     <Address />
                     {/* End Address */}
